@@ -16,7 +16,7 @@ PX100 comes with a USB to TTL232. Install it.<br>
 Result. <br>
 ![pic](pic/example.PNG)<br><br><br>
 
-Using Execl to analyze.
+Using Execl to analyze.<br>
 If you get current more than solar panel ability, the voltage drops quickly.<br>
 ![pic](pic/chart.png)<br><br><br>
 
