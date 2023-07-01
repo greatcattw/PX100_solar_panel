@@ -16,3 +16,11 @@ PX100 comes with a USB to TTL232. Install it.<br>
 Result. <br>
 ![pic](pic/example.PNG)<br><br><br>
 
+Test 3 of 50W solar panel.<br>
+Remember add a diode for voltage balance.<br>
+![pic](pic/q3_test.jpg)<br><br><br>
+
+PX100 takes 12v power.<br>
+Using a Sb battery and a buck–boost converter to generate 12V.
+![pic](pic/12v_pwr.jpg)<br><br><br>
+
