@@ -2,8 +2,8 @@
 Using PX100 to check power of solar panel
 <br>
 PX100 often was used to test battery.<br>
-I wrote a tool to test solar panel.<br>
-If you get current more than solar panel ability, the voltage drops quickly.<br>
+I wrote a tool to test quality of solar panel.<br>
+
 ![pic](pic/px100.jpg)<br><br><br>
 
 Program.<br>
@@ -15,6 +15,11 @@ PX100 comes with a USB to TTL232. Install it.<br>
 
 Result. <br>
 ![pic](pic/example.PNG)<br><br><br>
+
+Using Execl to analyze.
+If you get current more than solar panel ability, the voltage drops quickly.<br>
+![pic](pic/chart.png)<br><br><br>
+
 
 Test 3 of 50W solar panel.<br>
 Remember add a diode for voltage balance.<br>
