@@ -18,7 +18,7 @@ Result. <br>
 
 ## Using Execl to analyze.<br>
 If you get current more than solar panel ability, the voltage drops quickly.<br>
-The value of current is variable and relative to strength of sun.
+The value of current is variable and relative to strength of sun.<br>
 ![pic](pic/excel.png)<br>
 ![pic](pic/chart.png)<br><br><br>
 
