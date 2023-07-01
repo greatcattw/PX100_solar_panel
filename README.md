@@ -6,7 +6,7 @@ I wrote a tool to test solar panel.<br>
 If you get current more than solar panel ability, the voltage drops quickly.<br>
 ![pic](pic/app.png)<br><br><br>
 
-PX100 comes with a USB to TTL232. Install it.
+PX100 comes with a USB to TTL232. Install it.<br>
 ![pic](pic/dmgmt.PNG)<br><br><br>
 
 
